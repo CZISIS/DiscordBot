@@ -1,0 +1,7 @@
+
+{
+	"bot": {
+		"prefix": "!",
+		"token": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+  }
+}
